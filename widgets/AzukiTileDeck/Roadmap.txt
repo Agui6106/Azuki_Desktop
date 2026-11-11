@@ -1,0 +1,21 @@
+Azuki Tile Deck
+
+v0.1  → contenedor + cuadrícula estática
+v0.2  → tiles 1×1, 2×1 y 2×2
+v0.3  → selección, hover y animaciones
+v0.4  → información contextual + Abrir/Jugar
+v0.5  → configuración persistente
+         - agregar
+         - eliminar
+         - editar
+         - reordenar con ↑ / ↓
+         - cambiar tamaño del tile
+         - cambiar grupo
+v0.6  → grupos/páginas
+v0.7  → navegación por teclado
+v0.8  → navegación con mando
+v0.9  → carpetas virtuales
+v1.0  → optimización, pulido y documentación
+
+FUERA DE v1.0
+→ drag-and-drop

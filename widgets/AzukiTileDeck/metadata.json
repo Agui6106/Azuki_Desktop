@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Azuki"
+            }
+        ],
+        "Category": "Application Launchers",
+        "Description": "Tile-based launcher with coordinated retention policy controls",
+        "Icon": "applications-all",
+        "Id": "com.azuki.desktop.tiledeck",
+        "Name": "Azuki Tile Deck",
+        "Version": "0.6.7",
+        "Website": ""
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
