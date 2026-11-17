@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Jose Alberto Aguilar Sanchez"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Azuki Desktop weather widget using Open-Meteo",
+        "Icon": "weather-clear",
+        "Id": "com.azuki.desktop.weather",
+        "Name": "Azuki Weather",
+        "Version": "0.1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
+
