@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <kcfgfile name=""/>
+
+    <group name="General">
+        <entry name="localShortcutsJson" type="String">
+            <default>[{"id":"steam","name":"Steam","icon":"steam","command":"/usr/games/steam"},{"id":"discord","name":"Discord","icon":"azuki-discord","command":"/snap/bin/discord"},{"id":"brave","name":"Brave","icon":"brave-browser","command":"/usr/bin/brave-browser"},{"id":"captures","name":"Capturas","icon":"folder-pictures","command":"dolphin '/home/azuki505/Imágenes/Capturas de pantalla'"},{"id":"files","name":"Archivos","icon":"system-file-manager","command":"/usr/bin/nautilus"},{"id":"settings","name":"Configuración","icon":"settings-configure","command":"/usr/bin/systemsettings"}]</default>
+        </entry>
+        <entry name="webShortcutsJson" type="String">
+            <default>[{"name":"WhatsApp","url":"https://web.whatsapp.com","icon":"azuki-whatsapp"},{"name":"Instagram","url":"https://www.instagram.com","icon":"azuki-instagram"}]</default>
+        </entry>
+    </group>
+</kcfg>

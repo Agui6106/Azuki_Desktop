@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Jose Alberto Aguilar Sanchez"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Azuki Desktop quick access launcher",
+        "Icon": "applications-all",
+        "Id": "com.azuki.desktop.quickaccess",
+        "Name": "Azuki Quick Access",
+        "Version": "0.1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
+
